@@ -1,0 +1,9 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "typescript.format.semicolons": "remove",
+    "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "prettier.semi": false,
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.preferences.importModuleSpecifierEnding": "js"
+}
